@@ -1,7 +1,5 @@
 # KodeArt Website
 
-Uudistettu KodeArt-verkkosivuprojekti.
-
 ## Rakenne
 
 - `index.html` – etusivu
@@ -22,3 +20,4 @@ Pelialueen navigointilinkki on jätetty HTML-kommentiksi pyynnön mukaisesti.
 - Kuvien ja muiden resurssien optimointi
 - Open Graph -metatiedot
 - Favicon / site icon
+
